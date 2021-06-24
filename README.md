@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 ### sports:跑步、羽毛球
 ### My homepage:https://xuan655.github.io/zwx.github.io/
 ### QR code：
-            ![image](https://user-images.githubusercontent.com/61582615/123192302-2e9b8a00-d4d5-11eb-8de3-45acff913d8c.png)
+           ![image](https://user-images.githubusercontent.com/61582615/123192379-60145580-d4d5-11eb-9805-94bb93000045.png)
+
 
