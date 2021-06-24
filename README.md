@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### sex：男
 ### age：21
 ### sports:跑步、羽毛球
-### My homepage:https://xuan655.github.io/zwx.github.io/[https://xuan655.github.io/zwx.github.io/]
+### My homepage:https://xuan655.github.io/zwx.github.io/
 
